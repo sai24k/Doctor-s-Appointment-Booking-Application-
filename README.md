@@ -3,6 +3,11 @@
 ## Overview
 The Doctor Appointment Booking System is a web application designed to facilitate the booking and management of doctor appointments. This project leverages Java Servlets, JSP, and various web development technologies to provide a seamless experience for both patients and doctors.
 
+#### 📂 Project Structure
+
+The repository tree can be explored here:  
+[Doctor's Appointment Booking Application - Repo Tree](https://githubtree.mgks.dev/repo/sai24k/Doctor-s-Appointment-Booking-Application-/main/)
+
 ## Features
 - **User Authentication**: Secure login and registration for patients and doctors.
 - **Appointment Booking**: Patients can book, view, and cancel appointments.
@@ -51,3 +56,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 - Thanks to all contributors and open-source libraries used in this project.
+
