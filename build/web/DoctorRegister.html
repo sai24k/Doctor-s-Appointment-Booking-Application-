@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="Login-Register.css" />
+    <title>DocConnect</title>
+  </head>
+  <body>
+    <h1>Register as Doctor</h1>
+    <form action="DoctorRegister" method="post">
+      <input type="text" placeholder="Hospital Name" name="t1" required /><br />
+      <input type="text" placeholder="Doctor Name" name="t2" required /><br />
+      <input
+        type="text"
+        placeholder="Specialization"
+        name="t3"
+        required
+      /><br />
+      <input type="text" placeholder="Phone number" name="t4" required /><br />
+      <input type="text" placeholder="EMail" name="t5" required /><br />
+      <input
+        type="password"
+        placeholder="Create Password"
+        name="t6"
+        required
+      /><br />
+      <label><input type="checkbox" />Remember me</label><br />
+      <button type="submit" class="btn">Register</button><br />
+      <p>Already Registered <a href="./DoctorLogin.html">Login</a></p>
+    </form>
+  </body>
+</html>
